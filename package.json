@@ -1,0 +1,26 @@
+{
+  "name": "expressApiBlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node server.js --presets env"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cuid": "^2.1.2",
+    "express": "^4.16.3",
+    "limax": "^1.6.0",
+    "mongoose": "^5.2.9",
+    "sanitize-html": "^1.18.4"
+  }
+}
