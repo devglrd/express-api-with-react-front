@@ -1,6 +1,6 @@
 # express-api-with-react-front
 
-This is a express RESR api for author and post
+This is a express REST api for author and post
 
 Express - MongoDB for the back-end
 
