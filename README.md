@@ -2,9 +2,9 @@
 
 This is a express REST api for author and post
 
-Express - MongoDB for the back-end
+L'api est réalisé avec une base de donnée mongoDB et express
 
-React.js for the front end
+React.js pour le front end
 
 React.js is in the client/ folder
 
